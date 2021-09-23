@@ -1,0 +1,7 @@
+include ':mysharedlibrary'
+include ':roomwear'
+include ':roomwear'
+include ':roomwear'
+include ':roomwatch'
+include ':app'
+rootProject.name = "RoomAPI"
